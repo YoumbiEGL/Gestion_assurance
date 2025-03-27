@@ -97,7 +97,7 @@ sudo systemctl restart apache2
 Ouvrez votre navigateur et accédez à l'application via l'URL configurée, par exemple :
 
 ```
-http://gestion-assurances.local
+http://localhost:8081/gestion/public/admin_dashboard.php
 ```
 
 ## Utilisation
