@@ -1,3 +1,5 @@
+#remarque : il faut mettre s sur le dossier views apres le clonage
+
 # Gestion des Assurances et des Clients
 
 Ce projet est une application web pour gérer les assurances et les clients. Il permet d'ajouter, modifier, supprimer et consulter les informations des clients et des assurances.
